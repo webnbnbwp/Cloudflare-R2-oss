@@ -13,7 +13,7 @@
     <button class="upload-button circle" @click="showUploadPopup = true">
       <img
         style="filter: invert(100%)"
-        src="https://cdnjs.cloudflare.com/ajax/libs/material-design-icons/4.0.0/png/file/upload_file/materialicons/36dp/2x/baseline_upload_file_black_36dp.png"
+        src="data:image/png;base64,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"
         alt="Upload"
         width="36"
         height="36"
@@ -55,7 +55,7 @@
         >
           <div class="file-icon">
             <img
-              src="https://cdnjs.cloudflare.com/ajax/libs/material-design-icons/4.0.0/png/file/folder/materialicons/36dp/2x/baseline_folder_black_36dp.png"
+              src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABICAQAAAD/5HvMAAAAx0lEQVRo3u3ZOw7CMBCE4SkgZ0C5H5VzB65GlUiI5CCUbnhjitQY22jjZTX/XuCTyzHAGGOMWWsNhx4eIeF28pwNjkmUhUgrHLI44qRtNkeYtC8CCZJOhSAx0rkYlH8ePTo0cdBlQdB8E1pdoIAx9ko1QAFOG2jQBvKfQdcqoECQIdCNIIKsge4EEWQN9CCIoB9BT4IIsgZ6EUSQNVAg6AvIV+FE5phB22DltE16DUZdoyfQYtI0C8+v1CV/T4kP54wxxtj/9QYIMk/L0ogTgQAAAABJRU5ErkJggg=="
               width="36"
               height="36"
               alt="Folder"
